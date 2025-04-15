@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "tanyaclement",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-04-15T14:51:20.562Z",
-    "updated_at": "2025-04-15T14:51:20.562Z"
-  }
+    "updated_at": "2025-04-15T14:51:20.562Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "478f64b1-864d-4824-9fb9-e959fd4c8b18": {
+      "content": [],
+      "created_at": "2025-04-15T14:51:20.587Z",
+      "created_by": "tanyaclement",
+      "title": "Testing Aviary Manifest 2",
+      "updated_at": "2025-04-15T14:51:20.587Z",
+      "updated_by": "tanyaclement",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "478f64b1-864d-4824-9fb9-e959fd4c8b18"
+  ]
 }
